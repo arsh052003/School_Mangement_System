@@ -2,6 +2,6 @@
 Project Description:
 Built With:
 	Visual Studio
-	.NET
+	.NET 
 	MAUI
-	GitHUB
+	
