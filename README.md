@@ -53,8 +53,28 @@ Overhead: Larger app sizes due to additional framework overhead.
 
 Performance: Although close to native, might not achieve the same level of performance as fully native apps.  
 
-References:
+2. https://devblogs.microsoft.com/dotnet/introducing-dotnet-maui-one-codebase-many-platforms/ 
 
+Description: .NET MAUI is the evolution of Xamarin.Forms, aimed at simplifying cross-platform development further. It provides a single project system for building applications targeting Android, iOS, macOS, and Windows. .NET MAUI introduces improvements in performance, productivity, and tooling over Xamarin.Forms, making it a promising choice for future-proof cross-platform development. 
+
+Pros: 
+
+Enhanced performance: Improvements in performance over Xamarin.Forms. 
+
+Unified project structure: Simplified project setup and management. 
+
+Modern UI controls: Updated UI controls and layouts for a more polished user experience. 
+
+Cons: 
+
+Early adoption risks: Being a relatively new technology, it might have some stability or compatibility issues. 
+
+Learning curve: As a newer framework, resources and community support might be relatively limited compared to Xamarin.Forms. 
+
+Migration effort: Migration from Xamarin.Forms to .NET MAUI might require additional effort and testing. 
+
+
+References:
 https://github.com/Pieter-stack/EduCube2 
 
 https://github.com/deba1/SchoolManagementSystem 
