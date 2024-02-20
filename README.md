@@ -22,3 +22,9 @@ Built With:
 	MAUI
 
 	GitHub
+
+Resources:
+
+https://github.com/Pieter-stack/EduCube2 
+
+https://github.com/deba1/SchoolManagementSystem 
