@@ -73,8 +73,23 @@ Learning curve: As a newer framework, resources and community support might be r
 
 Migration effort: Migration from Xamarin.Forms to .NET MAUI might require additional effort and testing. 
 
+Functionality: 
 
+Login Screen administration staff, teachers, students can log using their email and password. 
+
+Login Screen authentication validation ensures secure access to the system. 
+
+Login Screen users can log off the system securely. 
+
+Dashboard Screen has the summary display upon login. 
+
+Dashboard Screen provide a summary of key data including total number of students, total count of Academic staff & administrative staff, total number of subjects offered and the overview of the funds. 
+
+Student Management Screen the users can view a list of all students enrolled in the course and edit student information including personal details, contact information, and academic records. 
+
+ 
 References:
 https://github.com/Pieter-stack/EduCube2 
 
 https://github.com/deba1/SchoolManagementSystem 
+
