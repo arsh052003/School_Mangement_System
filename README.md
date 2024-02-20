@@ -23,7 +23,37 @@ Built With:
 
 	GitHub
 
-Resources:
+Resouces:
+
+1.  https://learn.microsoft.com/en-us/xamarin/xamarin-forms/ 
+
+https://www.telerik.com/blogs/when-to-use-xamarin-forms-vs-xamarin-native 
+
+ 
+
+Description: Xamarin.Forms is a popular choice for building cross-platform applications using C#. It allows developers to create a single, shared UI codebase for Android, iOS, and Windows platforms. With Xamarin.Forms, you can achieve native-like performance and access to platform-specific APIs. It provides a wide range of pre-built UI components and layouts, making it easier to create visually appealing interfaces. 
+
+ 
+
+Pros: 
+
+Cross-platform development: Write once, run anywhere across multiple platforms. 
+
+Access to native APIs: Full access to native functionality for each platform. 
+
+Large community and resources: Extensive documentation and community support. 
+
+ 
+
+Cons: 
+
+Limited customization: UI customization might be restricted compared to native development. 
+
+Overhead: Larger app sizes due to additional framework overhead. 
+
+Performance: Although close to native, might not achieve the same level of performance as fully native apps.  
+
+References:
 
 https://github.com/Pieter-stack/EduCube2 
 
