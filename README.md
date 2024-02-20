@@ -87,6 +87,25 @@ Dashboard Screen provide a summary of key data including total number of student
 
 Student Management Screen the users can view a list of all students enrolled in the course and edit student information including personal details, contact information, and academic records. 
 
+Subject Management Screen the users can view a list of all subjects, add new subjects to the curriculum and assigned lecturer. 
+
+Staff Management Screen the users can access a list of academic and administrative staff members, edit staff information and add new staff members to the system. 
+
+Funds Management Screen the user can close off a month’s financial transactions such as collect student fees and distribute salaries to staff members. 
+
+Search functionalities implement across student, staff and subject pages. 
+
+Messaging functionality the users can send and receive messages, announcements, and notifications within the platform. 
+
+Gradebook and Assessment Management teachers can manage and update grades for assignments, quizzes and exams, students can view their grades and feedback on assignments. 
+
+Attendance Tracking teachers can take attendance for classes and administrators can view attendance records and generate reports. 
+
+Parent Portal allow parents to communicate with the teachers and administrators regarding their child’s education. 
+
+Calendar and Event Management maintains a centralized calendar for academic-events, exams, holidays, and extracurricular activities. 
+
+Resource Repository allow users to upload, download, and share resources within the platform. 
  
 References:
 https://github.com/Pieter-stack/EduCube2 
