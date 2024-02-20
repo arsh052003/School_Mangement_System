@@ -106,6 +106,35 @@ Parent Portal allow parents to communicate with the teachers and administrators 
 Calendar and Event Management maintains a centralized calendar for academic-events, exams, holidays, and extracurricular activities. 
 
 Resource Repository allow users to upload, download, and share resources within the platform. 
+
+Features: 
+
+ 
+
+Login Page: 
+ 
+
+ 
+
+Making sure that only authorized users can access the app. 
+
+ 
+
+Students and Teachers Page: 
+ 
+
+ 
+
+Very easy to navigate dashboard for both Students and Teachers, and buttons on the screen are clear as to what they do. 
+
+ 
+
+Home Page: 
+ 
+
+ 
+
+Will show important messages or announcements (similar to Moodle) and shows the area where social media pages can be linked if wanted. 
  
 References:
 https://github.com/Pieter-stack/EduCube2 
