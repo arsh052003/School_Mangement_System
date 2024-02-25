@@ -1,24 +1,34 @@
-﻿namespace School_Mangement_System
+﻿using Microsoft.Maui;
+using Microsoft.Maui.Controls;
+
+namespace School_Mangement_System
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
 
         public MainPage()
         {
             InitializeComponent();
         }
-
-        private void OnCounterClicked(object sender, EventArgs e)
+        private void LoginButton_Clicked(object sender, EventArgs e)
         {
-            count++;
+            string username = UsernameEntry.Text;
+            string password = PasswordEntry.Text;
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
+            if (IsValidUser(username, password))
+            {
+                Navigation.PushAsync(new MainPage());
+            }
+
             else
-                CounterBtn.Text = $"Clicked {count} times";
+            {
+                DisplayAlert("Login Failed", "Invalid username or password. Please try again.", "OK");
+            }
+        }
 
-            SemanticScreenReader.Announce(CounterBtn.Text);
+        private bool IsValidUser(string username, string password) 
+        {
+            return username == "admin" && password == "password";
         }
     }
 
