@@ -91,7 +91,7 @@ Subject Management Screen the users can view a list of all subjects, add new sub
 
 Staff Management Screen the users can access a list of academic and administrative staff members, edit staff information and add new staff members to the system. 
 
-Funds Management Screen the user can close off a month’s financial transactions such as collect student fees and distribute salaries to staff members. 
+Funds Management Screen the user can close off a monthâ€™s financial transactions such as collect student fees and distribute salaries to staff members. 
 
 Search functionalities implement across student, staff and subject pages. 
 
@@ -101,7 +101,7 @@ Gradebook and Assessment Management teachers can manage and update grades for as
 
 Attendance Tracking teachers can take attendance for classes and administrators can view attendance records and generate reports. 
 
-Parent Portal allow parents to communicate with the teachers and administrators regarding their child’s education. 
+Parent Portal allow parents to communicate with the teachers and administrators regarding their childâ€™s education. 
 
 Calendar and Event Management maintains a centralized calendar for academic-events, exams, holidays, and extracurricular activities. 
 
@@ -113,15 +113,15 @@ Features:
 
 Login Page: 
  
+![Picture1](https://github.com/arsh052003/School_Mangement_System/assets/122691385/acb0249d-949d-4715-bb59-57ab18754f07)
 
  
 
 Making sure that only authorized users can access the app. 
-
- 
-
 Students and Teachers Page: 
  
+![Picture1](https://github.com/arsh052003/School_Mangement_System/assets/122691385/046307d6-6dc4-420f-965f-f41b6de9b18a)
+![Picture2](https://github.com/arsh052003/School_Mangement_System/assets/122691385/4bfa63e9-6ba3-444c-a595-64e6b3b5a84c)
 
  
 
@@ -130,7 +130,8 @@ Very easy to navigate dashboard for both Students and Teachers, and buttons on t
  
 
 Home Page: 
- 
+ ![Picture3png](https://github.com/arsh052003/School_Mangement_System/assets/122691385/49bceb53-fe69-41af-8f1d-079a9f4d1c59)
+
 
  
 
